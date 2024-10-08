@@ -19,3 +19,4 @@ Assign all the points to the closest cluster centroid
 Recompute the centroids of newly formed clusters
 
 Repeat steps 3 and 4
+end
